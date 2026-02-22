@@ -1,6 +1,6 @@
 📊 Vedant Ecommerce Sales Dashboard
-
 🚀 Project Overview
+
 This project is an Interactive Ecommerce Sales Dashboard built using Power BI to analyze sales performance, profitability, customer behavior, and payment trends.
 The dashboard provides clear business insights using dynamic visuals and filters.
 
@@ -80,4 +80,5 @@ Step3: Explore interactive filters and drill-through pages
 
 
 ⭐ If you found this project valuable, feel free to star the repository!
+
 
