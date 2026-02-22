@@ -18,7 +18,7 @@ The dashboard provides clear business insights using dynamic visuals and filters
 - 📈 Interactive Visualizations
 
 📸 Dashboard Preview
-🔹 Main Dashboard View
+
 ![Home Tab](screenshots/home_tab.png)
 
 ![Qtr Tab](screenshots/Qtr_tab.png)
@@ -76,5 +76,6 @@ Step3: Explore interactive filters and drill-through pages
 - Vedant Kale
 - GitHub: https://github.com/Vedantkale3
 - LinkedIn: www.linkedin.com/in/vedant-kale-b75419292
+
 
 ⭐ If you found this project valuable, feel free to star the repository!
